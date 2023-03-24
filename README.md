@@ -1,4 +1,4 @@
-Your portfolio website is a sleek and professional site that showcases your skills, experience, and work samples. The website is built using React.js, a popular JavaScript library for building user interfaces. The website is organized into distinct components, making it easy for visitors to navigate and find the information they need.
+my portfolio website is a sleek and professional site that showcases your skills, experience, and work samples. The website is built using React.js, a popular JavaScript library for building user interfaces. The website is organized into distinct components, making it easy for visitors to navigate and find the information they need.
 
 One of the key features of your website is the use of a headless CMS called Sanity as a backend. This allows you to easily manage and organize your content, without worrying about the technical details of building a CMS from scratch. With Sanity, you can easily add, edit, and delete content, such as projects, blog posts, and contact information.
 
